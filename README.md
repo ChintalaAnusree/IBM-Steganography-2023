@@ -4,4 +4,3 @@ Hiding message in an image typically involves steganography , a technique where 
 
 ![Screenshot 2023-11-25 130512](https://github.com/ChintalaAnusree/IBM-Steganography-2023/assets/145093622/aa74dd3d-8f82-40f1-be34-a02b5226333a)
 ![Screenshot 2023-11-25 123020](https://github.com/ChintalaAnusree/IBM-Steganography-2023/assets/145093622/f85ca85f-1988-437f-a1af-5cee944d3160)
-![Screenshot 2023-11-25 130428](https://github.com/ChintalaAnusree/IBM-Steganography-2023/assets/145093622/6c05cb55-546a-4bef-a1ff-55a915c58d9a)
